@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8d0eaeb6623de5142134.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Proyecto_Alan_Jhostin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_Alan_Jhostin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_Alan_Jhostin-Debug-73377a30a04f5fd74bf4.json",
+					"name" : "Proyecto_Alan_Jhostin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_Alan_Jhostin_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_Alan_Jhostin_autogen-Debug-59cf9b148f90b2222d7a.json",
+					"name" : "Proyecto_Alan_Jhostin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_Alan_Jhostin_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_Alan_Jhostin_autogen_timestamp_deps-Debug-8498b1ce039358b2261a.json",
+					"name" : "Proyecto_Alan_Jhostin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/USER/Documents/Proyecto_CRUD_Alan_Jhostin-main/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/USER/Documents/Proyecto_CRUD_Alan_Jhostin-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
